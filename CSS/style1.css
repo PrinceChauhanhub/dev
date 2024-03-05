@@ -1,0 +1,17 @@
+h1{ 
+    color: orange;
+    text-align: center;   
+    text-decoration:black dotted underlineline;
+    letter-spacing: 15px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+p{
+    background-color: black;
+    color: white;
+    line-height: 15;
+}
